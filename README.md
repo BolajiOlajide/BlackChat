@@ -9,12 +9,13 @@ I used ths [tutorial](https://blog.manifold.co/building-a-chat-room-in-30-minute
 
 ## Installation
 To make use of this, you have to install `redis` on your PC.
-If you're using a mac, simply run the command from your terminal `brew install redis`.
-Then run the `./setup.sh` command to set up all dependency and start the application.
+- If you're using a mac, simply run the command from your terminal `brew install redis`.
+- Create a copy of the `.env.sample` file and name it `.env` and supply the information contained there.
+- Then run the `./setup.sh` command to set up all dependency and start the application.
 
-#### Contributor
+### Contributor
 Bolaji Olajide
 
-#### License
+### License
 MIT
  
